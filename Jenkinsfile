@@ -8,7 +8,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = 'retail-store-practica'
+        IMAGE_NAME = 'retail-store-u20231c368'
         IMAGE_TAG = '1.0'
     }
 
